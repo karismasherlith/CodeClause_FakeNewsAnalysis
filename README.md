@@ -1,4 +1,4 @@
-# CodeClause_FakeNewsAnalysis
+# Fake News Analysis
 Python Code for Fake News Analysis
 
 The data set used for the project is available on: kaggle datasets download -d clmentbisaillon/fake-and-real-news-dataset
